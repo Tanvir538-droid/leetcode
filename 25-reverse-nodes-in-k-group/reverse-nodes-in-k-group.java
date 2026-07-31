@@ -10,87 +10,45 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        
 
-
-        return reverseKElements(head,k); 
-    }
-
-    public ListNode reverseKElements(ListNode head,int k){
-        
-        if(head == null){
-            return null;
+        if (head == null || k == 1) {
+            return head;
         }
-        
-        ListNode current = head;
-        ListNode dummy = head;
-        
 
-for (int i = 0; i < k; i++) {
-    if (dummy == null) {
-        return head;
-    }
-    dummy = dummy.next;
-}
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        ListNode previous = null;
-        current = head;
-        ListNode conn = head;
-        ListNode next = null;
-        int counter = 0;
-        while(counter!=k){
-            next = current.next;
-            current.next = previous;
-           
-            previous = current;
-            current = next;
-            counter++;
+        ListNode groupPrev = dummy;
+
+        while (true) {
+
+            // Find the kth node
+            ListNode kth = groupPrev;
+            for (int i = 0; i < k; i++) {
+                kth = kth.next;
+                if (kth == null) {
+                    return dummy.next;
+                }
+            }
+
+            // Save the next group's start
+            ListNode groupNext = kth.next;
+
+            // Reverse current group
+            ListNode prev = groupNext;
+            ListNode curr = groupPrev.next;
+
+            while (curr != groupNext) {
+                ListNode next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+
+            // Connect previous group with reversed group
+            ListNode temp = groupPrev.next; // original head (becomes tail)
+            groupPrev.next = kth;
+            groupPrev = temp;
         }
-        conn.next = reverseKElements(dummy,k);
-
-        return previous;
     }
 }
-
-
-// int length =0;
-        // ListNode current = head;
-        // while(current!=null){
-        //     length++;
-        //     current = current.next;
-        // }
-        // ListNode secondHead = head;
-        // current = head;
-        // int tempPrime = 0;
-        // while(tempPrime!=k){
-        //     secondHead = current;
-        //     current = current.next;
-        //     tempPrime++;
-        // }
-        
-        // int iteration = length/k;
-        // int temp =0;
-        // ListNode previous = null;
-        // ListNode next = null;
-        // current = head;
-
-        // while(iteration != 0){
-        //     while(temp != k){
-        //         next = current.next;
-        //         current.next = previous;
-        //         if(temp==k-1){
-        //             current.next.next = next;
-        //         }
-        //         previous = current;
-        //         current = next;
-        //         temp++;
-        //     }
-        //         previous = null;
-        //         temp = 0;
-                
-            
-
-        //     iteration--;
-        // }
-
-        // return secondHead;
