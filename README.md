@@ -24,12 +24,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Tanvir538-droid/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tanvir538-droid/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanvir538-droid/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Tanvir538-droid/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanvir538-droid/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
