@@ -34,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/Tanvir538-droid/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Tanvir538-droid/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanvir538-droid/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanvir538-droid/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -52,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Tanvir538-droid/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanvir538-droid/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
