@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Tanvir538-droid/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Tanvir538-droid/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
