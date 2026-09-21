@@ -34,6 +34,7 @@
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tanvir538-droid/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tanvir538-droid/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -127,6 +128,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanvir538-droid/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanvir538-droid/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tanvir538-droid/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanvir538-droid/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Tanvir538-droid/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -203,9 +206,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
