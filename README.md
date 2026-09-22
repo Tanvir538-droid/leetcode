@@ -39,6 +39,7 @@
 | [0875-koko-eating-bananas](https://github.com/Tanvir538-droid/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Tanvir538-droid/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tanvir538-droid/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanvir538-droid/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanvir538-droid/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Binary Search
@@ -144,6 +145,7 @@
 | [0226-invert-binary-tree](https://github.com/Tanvir538-droid/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
