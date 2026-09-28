@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanvir538-droid/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Tanvir538-droid/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0567-permutation-in-string](https://github.com/Tanvir538-droid/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvir538-droid/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanvir538-droid/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanvir538-droid/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanvir538-droid/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvir538-droid/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +232,8 @@
 | [0133-clone-graph](https://github.com/Tanvir538-droid/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanvir538-droid/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
