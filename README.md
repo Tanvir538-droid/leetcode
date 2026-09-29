@@ -139,6 +139,7 @@
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
@@ -160,6 +161,7 @@
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -245,6 +247,7 @@
 | [0207-course-schedule](https://github.com/Tanvir538-droid/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanvir538-droid/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Bracket Sequences
@@ -268,4 +271,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
