@@ -139,6 +139,7 @@
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -235,6 +237,7 @@
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +245,7 @@
 | [0207-course-schedule](https://github.com/Tanvir538-droid/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanvir538-droid/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanvir538-droid/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -256,4 +260,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tanvir538-droid/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
