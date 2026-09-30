@@ -1,34 +1,45 @@
-
 class Solution {
-    public int minCostConnectPoints(int[][] points) {
-        int n = points.length;
-        boolean[] visited = new boolean[n];
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-          (a,b)->  a[0]-b[0]
-        );
-        int totalCost = 0;
-        //pq.offer(new int[]{cost,point});
-        pq.offer(new int[]{0,0});
-        while (!pq.isEmpty()) {
-            int[] current = pq.poll();
-            int cost = current[0];
-            int point = current[1];
-            if (visited[point]) {
-                continue;
-            }
-            visited[point] = true;
-            totalCost+=cost;
-            for(int next=0;next<n;next++){
-                if (visited[next]) {
-                    continue;
-                }
-                int x1 = points[point][0];
-                int y1 = points[point][1];
 
-                int x2 = points[next][0];
-                int y2 = points[next][1];
-                int distance = Math.abs(x1-x2) + Math.abs(y1-y2);
-                pq.offer(new int[]{distance,next});
+    public int minCostConnectPoints(int[][] points) {
+
+        int n = points.length;
+
+        boolean[] visited = new boolean[n];
+        int[] minCost = new int[n];
+
+        Arrays.fill(minCost, Integer.MAX_VALUE);
+
+        minCost[0] = 0;
+
+        int totalCost = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            // Find cheapest unvisited point
+            int current = -1;
+
+            for (int j = 0; j < n; j++) {
+                if (!visited[j] &&
+                    (current == -1 || minCost[j] < minCost[current])) {
+                    current = j;
+                }
+            }
+
+            // Add it to MST
+            visited[current] = true;
+            totalCost += minCost[current];
+
+            // Update connection costs
+            for (int j = 0; j < n; j++) {
+
+                if (!visited[j]) {
+
+                    int distance =
+                        Math.abs(points[current][0] - points[j][0])
+                        + Math.abs(points[current][1] - points[j][1]);
+
+                    minCost[j] = Math.min(minCost[j], distance);
+                }
             }
         }
 
