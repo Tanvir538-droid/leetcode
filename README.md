@@ -45,6 +45,7 @@
 | [0994-rotting-oranges](https://github.com/Tanvir538-droid/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanvir538-droid/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanvir538-droid/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@
 | [0684-redundant-connection](https://github.com/Tanvir538-droid/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@
 | [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanvir538-droid/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanvir538-droid/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +290,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Tanvir538-droid/leetcode/tree/main/0743-network-delay-time/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
