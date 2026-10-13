@@ -47,6 +47,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanvir538-droid/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Tanvir538-droid/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanvir538-droid/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanvir538-droid/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +313,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanvir538-droid/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanvir538-droid/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
