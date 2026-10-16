@@ -5,6 +5,7 @@ class Solution {
        for(int i=0;i<N;i++){
         S +=nums[i];
        } 
+       //int sum = S
        //S = S/2;
        ///this is the solution based on 2d dp
         // int[][] dp = new int[N+1][S+1];
@@ -21,10 +22,7 @@ class Solution {
         //         }
         //     }
         // }
-        // if (dp[N][S]==S) {
-        //     return true;
-        // }
-        // return false;
+        //return 2*dp[N][S]==sum;
         if(S%2!=0){
             return false;
         }
