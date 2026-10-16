@@ -37,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/Tanvir538-droid/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanvir538-droid/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanvir538-droid/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tanvir538-droid/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,4 +319,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanvir538-droid/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Tanvir538-droid/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
