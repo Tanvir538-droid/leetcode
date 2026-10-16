@@ -6,6 +6,9 @@ class Solution {
         S +=nums[i];
        } 
        int sum = S;
+       if(sum%2!=0){
+        return false;
+       }
        S = S/2;
         int[][] dp = new int[N+1][S+1];
         for(int i=0;i<N+1;i++){
